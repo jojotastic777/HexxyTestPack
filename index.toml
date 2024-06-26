@@ -852,11 +852,6 @@ hash = "29b48dbd9c9d9cea571dbe4d6f9370759a49d5a8810eeeb0e0d61defd58c5a14"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut.pw.toml"
-hash = "c19357c9348c2b3d47026f7c3a17a4419e6ab46e4fa602420345924eda4f3202"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
 hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
